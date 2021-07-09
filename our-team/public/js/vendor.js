@@ -1,0 +1,1 @@
+No Content: http://cmb.goldcoastweb.in/public/js/vendor.js
