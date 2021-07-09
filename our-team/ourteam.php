@@ -90,7 +90,7 @@
                             <div>
                                 <div class="card">
                                     <div class="card-body p-0">
-                                        <img class="img-thumbnail img-fluid" src="public/img/team/team-1.jpg">
+                                        <img class="img-thumbnail img-fluid" src="public/img/team/team-2.jpg">
                                     </div>
                                     <div class="card-footer">
                                         <h3 class="mb-0">John Duo <span>Resignation</span></h3>
@@ -100,7 +100,7 @@
                           <div>
                                 <div class="card">
                                     <div class="card-body p-0">
-                                        <img class="img-thumbnail img-fluid" src="public/img/team/team-1.jpg">
+                                        <img class="img-thumbnail img-fluid" src="public/img/team/team-3.jpg">
                                     </div>
                                     <div class="card-footer">
                                         <h3 class="mb-0">John Duo <span>Resignation</span></h3>
