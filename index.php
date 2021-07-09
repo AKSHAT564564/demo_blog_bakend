@@ -820,7 +820,7 @@
 
             <!-- Start CEO  -->
 
-            <iframe src="our-team/index.html" style="height:630px; width:1500px; border: none; " title="Iframe Example"></iframe>
+            <iframe src="our-team/ourteam.php" style="height:630px; width:1500px; border: none; " title="Iframe Example"></iframe>
 
 
             <!-- End  CEO  -->
