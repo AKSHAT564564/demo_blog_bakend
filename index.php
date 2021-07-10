@@ -819,14 +819,14 @@
 
 
             <!-- Start CEO  -->
-        <!--     <div class="container-fluid">
+            <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-12">
             <iframe src="our-team/ourteam.php"  style="width: 100%; height: 560px;"></iframe>
         </div>
     </div>
-</div> -->
-<?php include "our-team/ourteam.php" ?>
+</div> 
+
             <!-- End  CEO  -->
 
 

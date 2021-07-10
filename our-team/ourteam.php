@@ -52,7 +52,7 @@
                         <div class="founder-detail">
                             <h2 class="mb-2 pb-2 border-bottom">John Duo <span>CEO</span></h2>
                         </div>
-                        <img width="15" class="founder-img img-thumbnail" src="public/img/team/team-1.jpg" />
+                        <img width="150" class="founder-img img-thumbnail" src="public/img/team/team-1.jpg" />
                     </div>
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
