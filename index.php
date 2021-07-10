@@ -820,7 +820,11 @@
 
             <!-- Start CEO  -->
 
-            <iframe src="our-team/ourteam.php" style="height:630px; width:1500px; border: none; " title="Iframe Example"></iframe>
+             <div class="container-fluid">
+                <div class="row">
+            <iframe src="our-team/ourteam.php" class="col-lg-12 col-sm-12" style="width: 100%; height: 550px;" title="Iframe Example"></iframe>
+        </div>
+</div>
 
 
             <!-- End  CEO  -->
