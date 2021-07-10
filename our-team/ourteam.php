@@ -43,21 +43,7 @@
 </head>
 
 <body>
-    <!-- ======= Header ======= -->
    
-    <!-- ======= top-banne ======= -->
-    
-
-    <!-- ======= call-to-action ======= -->
-    
-
-    <!-- ======= our-success-story ======= -->
-    
-
-    <!-- ======= our-clients ======= -->
-    
-
-    <!-- ======= founder-team ======= -->
     <section class="founder-team">
         <div class="container">
             <div class="row">
@@ -76,9 +62,10 @@
                 <div class="col-xl-8">
                     <div class="our-team" data-aos="zoom-in-right">
                         <h2 class="section-title">Our Team</h2>
+
                         <div class="slider our-team-slider">
-                            <div>
-                                <div class="card">
+                            
+                                <div class="card col-sm-12">
                                     <div class="card-body p-0">
                                         <img class="img-thumbnail img-fluid" src="public/img/team/team-1.jpg">
                                     </div>
@@ -86,27 +73,27 @@
                                         <h3 class="mb-0">John Duo <span>Resignation</span></h3>
                                     </div>
                                 </div>
-                            </div>
-                            <div>
-                                <div class="card">
+                           
+                            
+                                <div class="card col-sm-12">
                                     <div class="card-body p-0">
-                                        <img class="img-thumbnail img-fluid" src="public/img/team/team-2.jpg">
+                                        <img class="img-thumbnail img-fluid" src="public/img/team/team-1.jpg">
                                     </div>
                                     <div class="card-footer">
                                         <h3 class="mb-0">John Duo <span>Resignation</span></h3>
                                     </div>
                                 </div>
-                            </div>
-                          <div>
-                                <div class="card">
+                            
+                          
+                                <div class="card col-sm-12">
                                     <div class="card-body p-0">
-                                        <img class="img-thumbnail img-fluid" src="public/img/team/team-3.jpg">
+                                        <img class="img-thumbnail img-fluid" src="public/img/team/team-1.jpg">
                                     </div>
                                     <div class="card-footer">
                                         <h3 class="mb-0">John Duo <span>Resignation</span></h3>
                                     </div>
                                 </div>
-                            </div>
+                            
                             
                            
                            
