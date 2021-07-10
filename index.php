@@ -826,7 +826,7 @@
         </div>
     </div>
 </div> -->
-<?php include "our-team/ourteam.html" ?>
+<?php include "our-team/ourteam.php" ?>
             <!-- End  CEO  -->
 
 
