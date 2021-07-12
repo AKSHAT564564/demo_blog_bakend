@@ -16,7 +16,7 @@
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/favicon.ico" />
-    <link href="fontawesome-free-5.15.3-web/css/all.css" rel="stylesheet">
+    <link href="css/icons/css/all.css" rel="stylesheet">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,600,700&display=swap" rel="stylesheet">
