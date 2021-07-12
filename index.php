@@ -214,56 +214,21 @@
 
         <!-- ==================== Start Slider ==================== -->
 
-        <section class="slider fixed-slider slide-controls">
+        <!-- Css of this theme is not compaitible for removing slider...that is why image is added in the slider class itself  -->
+          <section class="slider fixed-slider ">
             <div class="swiper-container parallax-slider">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="bg-img valign" data-background="https://corporatemarriagebureau.com/wp-content/uploads/2019/07/LRM_EXPORT_446745446835041_20190727_175059407.jpeg" data-overlay-dark="5">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-10 offset-lg-1">
-                                        <div class="caption">
-                                            <h1 data-splitting><a href="project-details2-dark.html">From <span class="stroke">The</span>
-                                                    <br> <span class="stroke">Inside</span> Out</a>
-                                            </h1>
-                                            <a href="project-details2-dark.html" class="dis" data-splitting>Discover Work</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="bg-img valign" data-background="https://corporatemarriagebureau.com/wp-content/uploads/2019/07/LRM_EXPORT_446745446835041_20190727_175059407.jpeg" data-overlay-dark="5">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-10 offset-lg-1">
-                                        <div class="caption">
-                                            <h1 data-splitting><a href="project-details2-dark.html">Luxury <br> <span class="stroke">Real</span>
-                                                    Estate</a>
-                                            </h1>
-                                            <a href="project-details2-dark.html" class="dis" data-splitting>Discover Work</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="bg-img valign" data-background="https://corporatemarriagebureau.com/wp-content/uploads/2019/07/LRM_EXPORT_446745446835041_20190727_175059407.jpeg" data-overlay-dark="5">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-10 offset-lg-1">
-                                        <div class="caption">
-                                            <h1 data-splitting><a href="project-details2-dark.html">Classic <br> <span class="stroke">&</span>
-                                                    Modern</a></h1>
-                                            <a href="project-details2-dark.html" class="dis" data-splitting>Discover Work</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <div>
+                    <img src="img\banner.jpeg">
+                 </div>
+            </div>
+        </section>
+
+
+        <!-- <section class="slider fixed-slider slide-controls">
+            <div class="swiper-container parallax-slider">
+                
+                    
+                   
                     <div class="swiper-slide">
                         <div class="bg-img valign" data-background="https://corporatemarriagebureau.com/wp-content/uploads/2019/07/LRM_EXPORT_446745446835041_20190727_175059407.jpeg" data-overlay-dark="5">
                             <div class="container">
@@ -288,7 +253,7 @@
                     <a href="index-dark.html#0">Behance</a>
                 </div>
 
-                <!-- slider setting -->
+              
                 <div class="swiper-button-next swiper-nav-ctrl next-ctrl">
                     <i class="fas fa-caret-right"></i>
                 </div>
@@ -299,7 +264,7 @@
             </div>
         </section>
 
-
+ -->
 
 
 
