@@ -44,67 +44,117 @@
 
 <body>
    
-    <section class="founder-team" style="background-color: white;">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-4 founder-block" data-aos="zoom-in-right">
-                    <div class="d-flex justify-content-between ">
-                        <div class="founder-detail">
-                            <h2 class="mb-2 pb-2 border-bottom">John Duo <span>CEO</span></h2>
-                        </div>
-                        <img width="150" class="founder-img img-thumbnail" src="public/img/team/team-1.jpg" />
-                    </div>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    </p>
-
-                </div>
-                <div class="col-xl-8">
-                    <div class="our-team" data-aos="zoom-in-right">
-                        <h2 class="section-title">Our Team</h2>
-
-                        <div class="slider our-team-slider">
-                            
-                                <div class="card col-sm-12">
-                                    <div class="card-body p-0">
-                                        <img class="img-thumbnail img-fluid" src="public/img/team/team-2.jpg">
-                                    </div>
-                                    <div class="card-footer">
-                                        <h3 class="mb-0">John Duo <span>Resignation</span></h3>
-                                    </div>
-                                </div>
-                           
-                            
-                                <div class="card col-sm-12">
-                                    <div class="card-body p-0">
-                                        <img class="img-thumbnail img-fluid" src="public/img/team/team-3.jpg">
-                                    </div>
-                                    <div class="card-footer">
-                                        <h3 class="mb-0">John Duo <span>Resignation</span></h3>
-                                    </div>
-                                </div>
-                            
-                          
-                                <div class="card col-sm-12">
-                                    <div class="card-body p-0">
-                                        <img class="img-thumbnail img-fluid" src="public/img/team/team-1.jpg">
-                                    </div>
-                                    <div class="card-footer">
-                                        <h3 class="mb-0">John Duo <span>Resignation</span></h3>
-                                    </div>
-                                </div>
-                            
-                            
-                           
-                           
-                           
-                            
-                        </div>
-                    </div>
-                </div>
-            </div>
+    <section class="founder-team">
+  <div class="container">
+    <h2 class="section-title d-none d-md-block">Our Team</h2>
+    <div class="row">
+      <div class="col-xl-4 col-lg-5 founder-block" data-aos="zoom-in-right">
+        <div class="d-flex justify-content-between ">
+          <div class="founder-detail order-2 order-lg-1">
+            <h2 class="mb-2 pb-2 border-bottom">John Duo <span>CEO</span></h2>
+          </div>
+          <img width="150" class="founder-img img-thumbnail order-1 order-lg-2" src="public/img/team/team-1.jpg" />
         </div>
-    </section>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+        
+      </div>
+      <div class="col-xl-8 col-lg-7">
+        <div class="our-team mt-5" data-aos="zoom-in-right">
+          <h2 class="section-title d-lg-block d-none">Our Team</h2>
+          <div class="slider our-team-slider">
+            <div>
+              <div class="card">
+                <div class="card-body p-0">
+                  <img class="img-thumbnail img-fluid" src="public/img/team/team-2.jpg">
+                </div>
+                <div class="card-footer">
+                  <h3 class="mb-0">John Duo <span>Designation</span></h3>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="card">
+                <div class="card-body p-0">
+                  <img class="img-thumbnail img-fluid" src="public/img/team/team-3.jpg">
+                </div>
+                <div class="card-footer">
+                  <h3 class="mb-0">John Duo <span>Designation</span></h3>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="card">
+                <div class="card-body p-0">
+                  <img class="img-thumbnail img-fluid" src="public/img/team/team-4.jpg">
+                </div>
+                <div class="card-footer">
+                  <h3 class="mb-0">John Duo <span>Designation</span></h3>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="card">
+                <div class="card-body p-0">
+                  <img class="img-thumbnail img-fluid" src="public/img/team/team-1.jpg">
+                </div>
+                <div class="card-footer">
+                  <h3 class="mb-0">John Duo <span>Designation</span></h3>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="card">
+                <div class="card-body p-0">
+                  <img class="img-thumbnail img-fluid" src="public/img/team/team-2.jpg">
+                </div>
+                <div class="card-footer">
+                  <h3 class="mb-0">John Duo <span>Designation</span></h3>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="card">
+                <div class="card-body p-0">
+                  <img class="img-thumbnail img-fluid" src="public/img/team/team-3.jpg">
+                </div>
+                <div class="card-footer">
+                  <h3 class="mb-0">John Duo <span>Designation</span></h3>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="card">
+                <div class="card-body p-0">
+                  <img class="img-thumbnail img-fluid" src="public/img/team/team-4.jpg">
+                </div>
+                <div class="card-footer">
+                  <h3 class="mb-0">John Duo <span>Designation</span></h3>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="card">
+                <div class="card-body p-0">
+                  <img class="img-thumbnail img-fluid" src="public/img/team/team-1.jpg">
+                </div>
+                <div class="card-footer">
+                  <h3 class="mb-0">John Duo <span>Designation</span></h3>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
     <!-- ======= footer ======= -->
     
        <script type="text/javascript" src="public/lib/jquery/jquery.min.js"></script>
