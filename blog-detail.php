@@ -178,7 +178,7 @@
                             </li>
                             <li>
                                 <div class="o-hidden">
-                                    <a href="blog.php" class="link"><span class="nm">04.</span>Stories</a>
+                                    <a href="blog.php" class="link"><span class="nm">04.</span>Blogs</a>
                                 </div>
                             </li>
                             <li>
