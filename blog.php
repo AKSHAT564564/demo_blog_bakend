@@ -67,6 +67,12 @@
   transform: translate(-50%, -50%);
   color: white;
 }
+.link{
+  color: white !important;
+}
+.sub-link{
+  color: white !important;
+}
 
         </style>
   <!-- Favicons -->
