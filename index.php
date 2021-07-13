@@ -171,7 +171,7 @@
                             </li>
                             <li>
                                 <div class="o-hidden">
-                                    <a href="blog-dark.html" class="link"><span class="nm">04.</span>Stories</a>
+                                    <a href="blog.php" class="link"><span class="nm">04.</span>Stories</a>
                                 </div>
                             </li>
                             <li>
