@@ -8,6 +8,12 @@
   <title>Blog | Shaadi 4 sure</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Blog | Shaadi 4 sure</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
 
 <link rel="shortcut icon" href="img/favicon.ico" />
     <link href="css/icons/css/all.css" rel="stylesheet">
@@ -31,52 +37,19 @@
                 text-align: center;
                 font-size: 22px;
             }
-            .post-date{
-              color: black;
-            }
-            .post-title{
-              font-size: 18px;
-              color: #EEEEEE;
-            }
-             .card-color{
-              background-color:#060606 !important;
-            }
-            .read-more{
-              color: #DF013A !important;
-            }
-            .hero-image {
-  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
-
-  /* Set a specific height */
-  height: 50%;
-
-  /* Position and center the image to scale nicely on all screens */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
-
-/* Place text in the middle of the image */
-.hero-text {
-  text-align: center;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-}
-.link{
+            .link{
   color: white !important;
 }
 .sub-link{
   color: white !important;
 }
-
-        </style>
+            h1,h2,h3,h4,h5,h6{font-weight: 500;margin-bottom: 1rem;font-family: 'Popinns', sans-serif;color: white !important;}
+            .category{
+              color: white !important;
+            }
+          </style>
   <!-- Favicons -->
-  <link href="cmb/img/fav.png" rel="icon">
+ <link href="cmb/img/fav.png" rel="icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Spartan:wght@400;500&display=swap" rel="stylesheet">
@@ -96,13 +69,10 @@
 
 </head>
 
-<body style="background-color:black; font-family: 'Poppins', sans-serif;color: #FFFFF !important;">
+<body style="background-color:black; font-family: 'Poppins', sans-serif;color: #FFFFF;">
 
 <!-- ======= Header ======= -->
-
-
-<!-- ======= top-banner ======= -->
-    <div id="navi" class="topnav">
+<div id="navi" class="topnav">
         <div class="container-fluid">
             <div class="logo">
                 <a href="index-dark.html#0"><img src="https://corporatemarriagebureau.com/wp-content/uploads/2019/08/LogoMakr_9oOjHr-e1567248306696.png" alt=""></a>
@@ -239,119 +209,94 @@
             </div>
         </div>
     </div>
-    <br><br>
-  
-<div class="container-fluid">
-  <div class="hero-image"> <img src="img/blog_banner.jpeg" style="height: 300px;">
-  <div class="hero-text">
-    <h1 style="color:#FFFFFF; font-size: 60px;">Blog Posts</h1>
-    <p style="color:#FFFFFF">LifeStyle</p>
-    
-  </div>
-</div>
-</div>
 
-<br>
+<br><br><br>
 <!-- ======= Blog ======= -->
-<section class="blog-list">
-  <div class="container">
-    <h2 class="section-title" >Blog</h2>
-    <div class="row pt-2">
-      <div class="col-md-6 col-lg-4 blog-list-outer">
-        <div class="card card-color" >
-          <div class="card-header p-0">
-            <img class="img-fluid" src="cmb/img/blog-1.jpg" />
-          </div>
-          <div class="card-body">
-            <span class="post-date">Tue, September 15</span>
-            <h4 class="post-title mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. </h4>
-          </div>
-          <div class="card-footer pt-0 border-0">
-            <a href="blog-detail.php" class="mt-auto read-more">Read More <i class="icofont-long-arrow-right"></i></a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6 col-lg-4 blog-list-outer">
-        <div class="card card-color" >
-          <div class="card-header p-0">
-            <img class="img-fluid" src="cmb/img/blog-2.jpg" />
-          </div>
-          <div class="card-body">
-            <span class="post-date">Tue, September 15</span>
-            <h4 class="post-title mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. </h4>
-          </div>
-          <div class="card-footer pt-0 border-0">
-            <a href="blog-detail.php" class="mt-auto read-more">Read More <i class="icofont-long-arrow-right"></i></a>
+<section class="blog-detail">
+  <div class="container" style=" background-color:#060606 !important;">
+    <div class="row">
+      <div class="col-lg-8 col-xl-9">
+        <div class="blog-detail-outer">
+          <img class="img-fluid w-100 blog-detail-main-img " src="cmb/img/blog-2.jpg" />
+          <div class="cms-block">
+            <h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. h2</h2>
+            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. h3</h3>
+            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. h4</h4>
+            <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. h5</h5>
+            <h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. h6</h6>
+            <ul>
+              <li>List item</li>
+              <li>List item</li>
+              <li>List item</li>
+              <li>List item</li>
+            </ul>
           </div>
         </div>
       </div>
-      <div class="col-md-6 col-lg-4 blog-list-outer">
-        <div class="card card-color">
-          <div class="card-header p-0">
-            <img class="img-fluid" src="cmb/img/blog-3.jpg" />
+      <div class="col-lg-4 col-xl-3">
+        <div class="blog-sidebar">
+          <div class="mb-3">
+            <h4 class="mb-3">Search</h4>
+            <div class="input-group mb-0">
+              <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)">
+              <div class="input-group-append">
+                <span class="input-group-text bg-theme text-white"><i class="icofont-search-1"></i></span>
+              </div>
+            </div>
           </div>
-          <div class="card-body">
-            <span class="post-date">Tue, September 15</span>
-            <h4 class="post-title mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. </h4>
+
+          <hr/>
+
+          <div class="mb-3">
+            <h4 class="mb-3">Categories</h4>
+            <ul class="list-unstyled mb-0">
+              <li class="text-theme mb-2 category">Category-1 <span class="text-muted ml-2">(10)</span></li>
+              <li class="text-theme mb-2 category">Category-2 <span class="text-muted ml-2">(12)</span></li>
+              <li class="text-theme mb-2 category">Category-3 <span class="text-muted ml-2">(14)</span></li>
+              <li class="text-theme mb-2 category">Category-4 <span class="text-muted ml-2">(18)</span></li>
+              <li class="text-theme mb-2 category" >Category-5 <span class="text-muted ml-2">(20)</span></li>
+            </ul>
           </div>
-          <div class="card-footer pt-0 border-0">
-            <a href="blog-detail.php" class="mt-auto read-more">Read More <i class="icofont-long-arrow-right"></i></a>
+
+          <hr/>
+
+          <div class="mb-0">
+            <h4 class="mb-3">Recent Post</h4>
+            <div class="media mb-3">
+              <img width="100" class="mr-3 img-fluid" src="cmb/img/blog-1.jpg" alt="" />
+              <div class="media-body">
+                <h5 class="mt-0">Media heading</h5>
+                May 21
+              </div>
+            </div>
+            <div class="media mb-3">
+              <img width="100" class="mr-3 img-fluid" src="cmb/img/blog-2.jpg" alt="" />
+              <div class="media-body">
+                <h5 class="mt-0">Media heading</h5>
+                May 21
+              </div>
+            </div>
+            <div class="media mb-0">
+              <img width="100" class="mr-3 img-fluid" src="cmb/img/blog-3.jpg" alt="" />
+              <div class="media-body">
+                <h5 class="mt-0">Media heading</h5>
+                May 21
+              </div>
+            </div>
           </div>
-        </div>
-      </div>
-      <div class="col-md-6 col-lg-4 blog-list-outer">
-        <div class="card card-color">
-          <div class="card-header p-0">
-            <img class="img-fluid" src="cmb/img/blog-1.jpg" />
-          </div>
-          <div class="card-body">
-            <span class="post-date">Tue, September 15</span>
-            <h4 class="post-title mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. </h4>
-          </div>
-          <div class="card-footer pt-0 border-0">
-            <a href="blog-detail.php" class="mt-auto read-more">Read More <i class="icofont-long-arrow-right"></i></a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6 col-lg-4 blog-list-outer">
-        <div class="card card-color">
-          <div class="card-header p-0">
-            <img class="img-fluid" src="cmb/img/blog-2.jpg" />
-          </div>
-          <div class="card-body">
-            <span class="post-date">Tue, September 15</span>
-            <h4 class="post-title mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. </h4>
-          </div>
-          <div class="card-footer pt-0 border-0">
-            <a href="blog-detail.php" class="mt-auto read-more">Read More <i class="icofont-long-arrow-right"></i></a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6 col-lg-4 blog-list-outer">
-        <div class="card card-color">
-          <div class="card-header p-0">
-            <img class="img-fluid" src="cmb/img/blog-3.jpg" />
-          </div>
-          <div class="card-body">
-            <span class="post-date">Tue, September 15</span>
-            <h4 class="post-title mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. </h4>
-          </div>
-          <div class="card-footer pt-0 border-0">
-            <a href="blog-detail.php"class="mt-auto read-more">Read More <i class="icofont-long-arrow-right"></i></a>
-          </div>
+
         </div>
       </div>
     </div>
   </div>
 </section>
 
-
+<!-- ======= footer ======= -->
 <section class="call-action section-padding" data-overlay-dark="0">
                 <div class="container">
                     <div class="row">
@@ -394,22 +339,8 @@
                     </div>
                 </div>
             </footer>
-<!-- ======= footer ======= -->
-
 <!-- JS Files -->
-<script src="cmb/lib/jquery/jquery.min.js"></script>
-<script src="cmb/js/bootstrap.min.js"></script>
-<script src="cmb/lib/slick/slick.min.js"></script>
-<script src="cmb/lib/aos/aos.js"></script>
-<script type="text/javascript">
-     <script src="js/jquery-3.0.0.min.js"></script>
-    <script src="js/jquery-migrate-3.0.0.min.js"></script>
 
-    <!-- plugins -->
-    <script src="js/plugins.js"></script>
-
-    <!-- custom scripts -->
-    <script src="js/scripts.js"></script>
 
   // Testimonial
   $('.responsive').slick({
@@ -485,5 +416,18 @@
     aos_init();
   });
 </script>
+<script src="cmb/lib/jquery/jquery.min.js"></script>
+<script src="cmb/js/bootstrap.min.js"></script>
+<script src="cmb/lib/slick/slick.min.js"></script>
+<script src="cmb/lib/aos/aos.js"></script>
+<script type="text/javascript">
+     <script src="js/jquery-3.0.0.min.js"></script>
+    <script src="js/jquery-migrate-3.0.0.min.js"></script>
+
+    <!-- plugins -->
+    <script src="js/plugins.js"></script>
+
+    <!-- custom scripts -->
+    <script src="js/scripts.js"></script>
 </body>
 </html>
