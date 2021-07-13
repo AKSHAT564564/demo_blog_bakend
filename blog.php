@@ -96,16 +96,29 @@
 
 </head>
 
-<body style="background-color:black; font-family: 'Poppins', sans-serif;color: #FFFFF !important;">
+<body class= "dark" style="background-color:black; font-family: 'Poppins', sans-serif;color: #FFFFF !important;">
 
 <!-- ======= Header ======= -->
+  <div id="preloader">
+        <div class="loading-text">Loading</div>
+    </div>
 
+    <!-- ==================== End Loading ==================== -->
+
+
+    <!-- ==================== Start progress-scroll-button ==================== -->
+
+    <div class="progress-wrap">
+        <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+        </svg>
+    </div>
 
 <!-- ======= top-banner ======= -->
     <div id="navi" class="topnav">
         <div class="container-fluid">
             <div class="logo">
-                <a href="index-dark.html#0"><img src="https://corporatemarriagebureau.com/wp-content/uploads/2019/08/LogoMakr_9oOjHr-e1567248306696.png" alt=""></a>
+                <a href="index.php"><img src="https://corporatemarriagebureau.com/wp-content/uploads/2019/08/LogoMakr_9oOjHr-e1567248306696.png" alt=""></a>
             </div>
             <div class="menu-icon">
                 <span class="icon">

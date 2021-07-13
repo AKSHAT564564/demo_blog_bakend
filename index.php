@@ -68,7 +68,7 @@
     <div id="navi" class="topnav">
         <div class="container-fluid">
             <div class="logo">
-                <a href="index-dark.html#0"><img src="https://corporatemarriagebureau.com/wp-content/uploads/2019/08/LogoMakr_9oOjHr-e1567248306696.png" alt=""></a>
+                <a href="index.php"><img src="https://corporatemarriagebureau.com/wp-content/uploads/2019/08/LogoMakr_9oOjHr-e1567248306696.png" alt=""></a>
             </div>
             <div class="menu-icon">
                 <span class="icon">
