@@ -424,7 +424,7 @@
     <!-- custom scripts -->
     <script src="js/scripts.js"></script>
 
-  // Testimonial
+<!--   // Testimonial
   $('.responsive').slick({
     dots: true,
     infinite: false,
@@ -496,7 +496,7 @@
   }
   $(window).on('load', function() {
     aos_init();
-  });
+  }); -->
 </script>
 </body>
 </html>
