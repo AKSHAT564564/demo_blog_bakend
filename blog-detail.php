@@ -47,6 +47,10 @@
             .category{
               color: white !important;
             }
+
+            .image-width{
+              width: 60%;
+            }
           </style>
   <!-- Favicons -->
  <link href="cmb/img/fav.png" rel="icon">
@@ -268,24 +272,24 @@
           <div class="mb-0">
             <h4 class="mb-3">Recent Post</h4>
             <div class="media mb-3">
-              <img width="100" class="mr-3 img-fluid" src="cmb/img/blog-1.jpg" alt="" />
+              <img width="100" class="mr-3 img-fluid image-width" src="cmb/img/blog-1.jpg" alt="" />
               <div class="media-body">
                 <h5 class="mt-0">Media heading</h5>
-                May 21
+              
               </div>
             </div>
             <div class="media mb-3">
-              <img width="100" class="mr-3 img-fluid" src="cmb/img/blog-2.jpg" alt="" />
+              <img width="100" class="mr-3 img-fluid image-width"" src="cmb/img/blog-2.jpg" alt="" />
               <div class="media-body">
                 <h5 class="mt-0">Media heading</h5>
-                May 21
+                
               </div>
             </div>
             <div class="media mb-0">
-              <img width="100" class="mr-3 img-fluid" src="cmb/img/blog-3.jpg" alt="" />
+              <img width="100" class="mr-3 img-fluid image-width"  src="cmb/img/blog-3.jpg" alt="" />
               <div class="media-body">
                 <h5 class="mt-0">Media heading</h5>
-                May 21
+                
               </div>
             </div>
           </div>
@@ -340,81 +344,6 @@
                 </div>
             </footer>
 <!-- JS Files -->
-
-
-  // Testimonial
-  $('.responsive').slick({
-    dots: true,
-    infinite: false,
-    speed: 300,
-    slidesToShow: 2,
-    slidesToScroll: 2,
-    prevArrow: false,
-    nextArrow: false,
-    responsive: [
-      {
-        breakpoint: 480,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1
-        }
-      }
-    ]
-  });
-
-  // Client
-  $('.our-clients-slider').slick({
-    dots: false,
-    infinite: true,
-    autoplay: true,
-    autoplaySpeed: 2000,
-    speed: 300,
-    slidesToShow: 5,
-    prevArrow: false,
-    nextArrow: false,
-    responsive: [
-      {
-        breakpoint: 480,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1
-        }
-      }
-    ]
-  });
-
-  // Client
-  $('.our-team-slider').slick({
-    dots: false,
-    infinite: true,
-    autoplay: false,
-    autoplaySpeed: 2000,
-    speed: 300,
-    slidesToShow: 3,
-    prevArrow: false,
-    nextArrow: false,
-    responsive: [
-      {
-        breakpoint: 480,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1
-        }
-      }
-    ]
-  });
-
-  // Init AOS
-  function aos_init() {
-    AOS.init({
-      duration: 1000,
-      once: true,
-      disable: 'mobile'
-    });
-  }
-  $(window).on('load', function() {
-    aos_init();
-  });
 </script>
 <script src="cmb/lib/jquery/jquery.min.js"></script>
 <script src="cmb/js/bootstrap.min.js"></script>
