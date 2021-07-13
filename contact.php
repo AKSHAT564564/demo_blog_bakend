@@ -8,12 +8,6 @@
   <title>Blog | Shaadi 4 sure</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-  <title>Blog | Shaadi 4 sure</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
 
 <link rel="shortcut icon" href="img/favicon.ico" />
     <link href="css/icons/css/all.css" rel="stylesheet">
@@ -37,23 +31,55 @@
                 text-align: center;
                 font-size: 22px;
             }
-            .link{
+            .post-date{
+              color: black;
+            }
+            .post-title{
+              font-size: 18px;
+              color: #EEEEEE;
+            }
+             .card-color{
+              background-color:#060606 !important;
+            }
+            .read-more{
+              color: #DF013A !important;
+            }
+            .hero-image {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+
+  /* Set a specific height */
+  height: 50%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.link{
   color: white !important;
 }
 .sub-link{
   color: white !important;
 }
-            h1,h2,h3,h4,h5,h6{font-weight: 500;margin-bottom: 1rem;font-family: 'Popinns', sans-serif;color: white !important;}
-            .category{
-              color: white !important;
-            }
+.top-banner{
+  background-image: url('../img/banner.jpeg') !important;
+}
 
-            .image-width{
-              width: 60%;
-            }
-          </style>
+        </style>
   <!-- Favicons -->
- <link href="cmb/img/fav.png" rel="icon">
+  <link href="cmb/img/fav.png" rel="icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Spartan:wght@400;500&display=swap" rel="stylesheet">
@@ -73,7 +99,10 @@
 
 </head>
 
-<body class="dark" style="background-color:black; font-family: 'Poppins', sans-serif;color: #FFFFF;">
+<body class="dark">
+
+<!-- ======= Header ======= -->
+<!-- ======= Header ======= -->
   <div id="preloader">
         <div class="loading-text">Loading</div>
     </div>
@@ -88,8 +117,9 @@
             <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
         </svg>
     </div>
-<!-- ======= Header ======= -->
-<div id="navi" class="topnav">
+
+<!-- ======= top-banner ======= -->
+    <div id="navi" class="topnav">
         <div class="container-fluid">
             <div class="logo">
                 <a href="index.php"><img src="https://corporatemarriagebureau.com/wp-content/uploads/2019/08/LogoMakr_9oOjHr-e1567248306696.png" alt=""></a>
@@ -124,7 +154,7 @@
                                         </li>
                                         <li>
                                             <div class="o-hidden">
-                                                <a href="index-2-dark.html" class="sub-link"><span
+                                                <a href="index.php" class="sub-link"><span
                                                         class="nm">01.</span>Index 1 <em>(Dark Version)</em></a>
                                             </div>
                                         </li>
@@ -226,113 +256,82 @@
             </div>
         </div>
     </div>
+    <br><br>
 
-<br><br><br>
-<!-- ======= Blog ======= -->
-<section class="blog-detail">
-  <div class="container" style=" background-color:#060606 !important;">
-    <div class="row">
-      <div class="col-lg-8 col-xl-9">
-        <div class="blog-detail-outer">
-          <img class="img-fluid w-100 blog-detail-main-img " src="cmb/img/blog-2.jpg" />
-          <div class="cms-block">
-            <h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. h2</h2>
-            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. h3</h3>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. h4</h4>
-            <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. h5</h5>
-            <h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. h6</h6>
-            <ul>
-              <li>List item</li>
-              <li>List item</li>
-              <li>List item</li>
-              <li>List item</li>
-            </ul>
+
+    <!--  -->
+<!-- ======= top-banner ======= -->
+<div class="container-fluid">
+  <div class="hero-image"> <img src="img/contact3.jpg" style="">
+  <div class="hero-text">
+    <h1 style="color:#FFFFFF; font-size: 60px;"><strong>Contact Us</strong></h1>
+    <p style="color:#FFFFFF; font-size:30px;">Get in Touch</p>
+    
+  </div>
+</div>
+</div>
+
+<!-- ======= contact ======= -->
+<section class="contact-block">
+  <div class="container">
+    <h2 class="section-title">
+      <span>Contact Us</span>
+    </h2>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3670.634362442165!2d72.5389944507869!3d23.07386282012477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e83430090184b%3A0x3853d800ccf9ac32!2sChanakyapuri%20Flyover%2C%20Ahmedabad%2C%20Gujarat%20380061!5e0!3m2!1sen!2sin!4v1620478188385!5m2!1sen!2sin" width="100%" height="300" allowfullscreen="" loading="lazy"></iframe>
+    <div class="row mt-5">
+      <div class="col-xl-6">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="info-box">
+              <i class="icofont-location-pin"></i>
+              <h3>Our Address</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua.</p>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="info-box mt-4">
+              <i class="icofont-email"></i>
+              <h3>Email Us</h3>
+              <p>info@example.com<br>contact@example.com</p>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="info-box mt-4">
+              <i class="icofont-phone"></i>
+              <h3>Call Us</h3>
+              <p>+1 5589 55488 55<br>+1 6678 254445 41</p>
+            </div>
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-xl-3">
-        <div class="blog-sidebar">
-          <div class="mb-3">
-            <h4 class="mb-3">Search</h4>
-            <div class="input-group mb-0">
-              <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)">
-              <div class="input-group-append">
-                <span class="input-group-text bg-theme text-white"><i class="icofont-search-1"></i></span>
-              </div>
+      <div class="col-xl-6">
+        <form class="php-email-form">
+          <div class="row">
+            <div class="col-md-6 form-group">
+              <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required="">
+            </div>
+            <div class="col-md-6 form-group">
+              <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required="">
             </div>
           </div>
-
-          <hr/>
-
-          <div class="mb-3">
-            <h4 class="mb-3">Categories</h4>
-            <ul class="list-unstyled mb-0">
-              <li class="text-theme mb-2 category">Category-1 <span class="text-muted ml-2">(10)</span></li>
-              <li class="text-theme mb-2 category">Category-2 <span class="text-muted ml-2">(12)</span></li>
-              <li class="text-theme mb-2 category">Category-3 <span class="text-muted ml-2">(14)</span></li>
-              <li class="text-theme mb-2 category">Category-4 <span class="text-muted ml-2">(18)</span></li>
-              <li class="text-theme mb-2 category" >Category-5 <span class="text-muted ml-2">(20)</span></li>
-            </ul>
+          <div class="form-group">
+            <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required="">
           </div>
-
-          <hr/>
-
-          <div class="mb-0">
-            <h4 class="mb-3">Recent Post</h4>
-            <div class="media mb-3">
-              <img width="100" class="mr-3 img-fluid image-width" src="cmb/img/blog-1.jpg" alt="" />
-              <div class="media-body">
-                <h5 class="mt-0">Media heading</h5>
-              
-              </div>
-            </div>
-            <div class="media mb-3">
-              <img width="100" class="mr-3 img-fluid image-width"" src="cmb/img/blog-2.jpg" alt="" />
-              <div class="media-body">
-                <h5 class="mt-0">Media heading</h5>
-                
-              </div>
-            </div>
-            <div class="media mb-0">
-              <img width="100" class="mr-3 img-fluid image-width"  src="cmb/img/blog-3.jpg" alt="" />
-              <div class="media-body">
-                <h5 class="mt-0">Media heading</h5>
-                
-              </div>
-            </div>
+          <div class="form-group">
+            <textarea class="form-control" name="message" rows="5" placeholder="Message" required=""></textarea>
           </div>
-
-        </div>
+          <div class="text-center">
+            <button type="submit" class="btn btn-theme rounded-pill">Send Message</button>
+          </div>
+        </form>
       </div>
     </div>
   </div>
 </section>
 
 <!-- ======= footer ======= -->
-<section class="call-action section-padding" data-overlay-dark="0">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-8 col-lg-9">
-                            <div class="content sm-mb30">
-                                <h6 class="wow" data-splitting>Let’s Talk</h6>
-                                <h2 class="wow" data-splitting>about your <b>next project</b>.</h2>
-                                <p class="wow txt" data-splitting>Get creative solutions. Everyone is a potential creator.
-                                </p>
-                            </div>
-                        </div>
 
-                        <div class="col-md-4 col-lg-3 valign">
-                            <a href="contact.php" class="btn-curve btn-lit"><span>Get In Touch</span></a>
-                        </div>
-
-                    </div>
-                </div>
-            </section>
 
             <!-- ==================== End call-to-action ==================== -->
 
@@ -357,7 +356,6 @@
                 </div>
             </footer>
 <!-- JS Files -->
-</script>
 <script src="cmb/lib/jquery/jquery.min.js"></script>
 <script src="cmb/js/bootstrap.min.js"></script>
 <script src="cmb/lib/slick/slick.min.js"></script>
@@ -371,5 +369,80 @@
 
     <!-- custom scripts -->
     <script src="js/scripts.js"></script>
+
+<!--   // Testimonial
+  $('.responsive').slick({
+    dots: true,
+    infinite: false,
+    speed: 300,
+    slidesToShow: 2,
+    slidesToScroll: 2,
+    prevArrow: false,
+    nextArrow: false,
+    responsive: [
+      {
+        breakpoint: 480,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
+      }
+    ]
+  });
+
+  // Client
+  $('.our-clients-slider').slick({
+    dots: false,
+    infinite: true,
+    autoplay: true,
+    autoplaySpeed: 2000,
+    speed: 300,
+    slidesToShow: 5,
+    prevArrow: false,
+    nextArrow: false,
+    responsive: [
+      {
+        breakpoint: 480,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
+      }
+    ]
+  });
+
+  // Client
+  $('.our-team-slider').slick({
+    dots: false,
+    infinite: true,
+    autoplay: false,
+    autoplaySpeed: 2000,
+    speed: 300,
+    slidesToShow: 3,
+    prevArrow: false,
+    nextArrow: false,
+    responsive: [
+      {
+        breakpoint: 480,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
+      }
+    ]
+  });
+
+  // Init AOS
+  function aos_init() {
+    AOS.init({
+      duration: 1000,
+      once: true,
+      disable: 'mobile'
+    });
+  }
+  $(window).on('load', function() {
+    aos_init();
+  }); -->
+</script>
 </body>
 </html>

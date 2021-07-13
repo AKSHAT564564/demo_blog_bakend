@@ -226,7 +226,7 @@
                             </li>
                             <li>
                                 <div class="o-hidden">
-                                    <a href="" class="link"><span class="nm">05.</span>Contact</a>
+                                    <a href="contact.php" class="link"><span class="nm">05.</span>Contact</a>
                                 </div>
                             </li>
                         </ul>
@@ -378,7 +378,7 @@
                         </div>
 
                         <div class="col-md-4 col-lg-3 valign">
-                            <a href="http://innovationplans.com/wavo3/contact-dark.html" class="btn-curve btn-lit"><span>Get In Touch</span></a>
+                            <a href="contact.php" class="btn-curve btn-lit"><span>Get In Touch</span></a>
                         </div>
 
                     </div>
