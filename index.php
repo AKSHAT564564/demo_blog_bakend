@@ -304,7 +304,7 @@
                   <!-- <h3 class="bg-primary text-primary text-dark">Top B School Clients</h3> -->
                   <img src="img\portions\2.png" style="height: 55%;">
                   <h2 class="text-center" style="font-size: 20px; color: #001e62;">What we do</h2>
-                    <p style="font-size: 15px;">Here at Corporate Marriage Bureau, We Understand The Sentiments of Professionals, Where Knowledge Plays a Dominant Part In Finding A Good Partner. We Believe In Matchmaking Through Modern Methods Where Not Only Two Individuals Compatibility Plays a Part But Also There Professional Profiles Should Also Be Compatible.</p>
+                    <p style="font-size: 15px;">Here at Corporate Marriage Bureau, We Understand The Sentiments of Professionals, Where Knowledge Plays a Dominant Part In Finding A Good Partner. </p>
                 </div>
 
                 </div>
