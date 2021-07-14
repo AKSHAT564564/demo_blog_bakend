@@ -391,12 +391,12 @@
 
             <!-- ==================== Start footer-sm ==================== -->
 
-               <footer class="footer-sm">
+             <footer class="footer-sm">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 col-md-4">
                             <div class="left">
-                                <p>Privacy Policy <strong style="font-size: 25px;">|</strong> T & C</p>
+                                <p>Privacy Policy <strong>|</strong> Terms & Conditions</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
