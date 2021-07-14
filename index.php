@@ -276,7 +276,8 @@
                 </div>
 
                 </div>
-             
+            </div> 
+            <div class="container">
     <div class="row">
                 <div class="col-lg-6 col-sm-12">
                     <!-- <b class="text-dark">veioveomboemwobm</b> -->
