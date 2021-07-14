@@ -272,14 +272,14 @@
                   <br><br>
                   <h2 class="text-center" style="font-size: 20px; color: #FFFFFF;">What we do</h2>
                   <br>
-                    <p style="font-size: 15px;">Here at Corporate Marriage Bureau, We Understand The Sentiments of Professionals, Where Knowledge Plays a Dominant Part In Finding A Good Partner.Our Relationship Managers are Well Versed In Understanding An Individuals Requirements. </p>
+                    <p style="font-size: 15px;">Here at Corporate Marriage Bureau, We Understand The Sentiments of Professionals, Where Knowledge Plays a Dominant Part In Finding A Good Partner. </p>
                 </div>
 
                 </div>
             </div> 
             <div class="container">
     <div class="row">
-                <div class="col-lg-6 col-sm-12">
+                <div class="col-lg-6 col-sm-12 ">
                     <!-- <b class="text-dark">veioveomboemwobm</b> -->
                     <!-- <h3 class="text-dark ">UNDERSTANDING THE IMPORTANCE OF EDUCATION </h3> -->
                     <br>
