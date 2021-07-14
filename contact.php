@@ -344,12 +344,12 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-4">
                             <div class="left">
-                                <p>All right reserved.</p>
+                                <p><i class="fas fa-arrow-right"></i>  Privacy Policy.</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <div class="right">
-                                <p>© 2020, Wavo Template. Made with passion by UI-ThemeZ.</p>
+                                <p><i class="fas fa-arrow-right"></i>Terms and Conditions</p>
                             </div>
                         </div>
                     </div>

@@ -32,11 +32,37 @@
     <!-- Core Style Css -->
     <link rel="stylesheet" href="css/style.css" />
         <style type="text/css">
+        .main-content{
+            margin-top: 10px;
+        }
             .samll-texts{
                 text-decoration-color: blueviolet;
                 text-align: center;
                 font-size: 22px;
             }
+               .hero-image {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+
+  /* Set a specific height */
+  height: 50%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
         </style>
 
 </head>
@@ -64,7 +90,7 @@
 
 
     <!-- ==================== Start Navgition ==================== -->
-
+<div>
     <div id="navi" class="topnav">
         <div class="container-fluid">
             <div class="logo">
@@ -202,92 +228,32 @@
             </div>
         </div>
     </div>
-
+</div>
     <!-- ==================== End Navgition ==================== -->
 
 
     <!-- ==================== Start wrapper ==================== -->
 
     <div class="wrapper">
+<div class="main-content">
+
+         <div class="container-fluid">
+  <div class="hero-image"> <img src="img/banner.jpeg" style="">
+  <div class="hero-text">
+   
+    
+  </div>
+</div>
+</div>
+
+ <!-- ==================== Start Slider ==================== -->
 
 
-
-        <!-- ==================== Start Slider ==================== -->
-
-        <!-- Css of this theme is not compaitible for removing slider...that is why image is added in the slider class itself  -->
-          <section class="slider fixed-slider ">
-            <div class="swiper-container parallax-slider">
-                <div>
-                    <img src="img\banner.jpeg">
-                 </div>
-            </div>
-        </section>
-
-
-        <!-- <section class="slider fixed-slider slide-controls">
-            <div class="swiper-container parallax-slider">
-                
-                    
-                   
-                    <div class="swiper-slide">
-                        <div class="bg-img valign" data-background="https://corporatemarriagebureau.com/wp-content/uploads/2019/07/LRM_EXPORT_446745446835041_20190727_175059407.jpeg" data-overlay-dark="5">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-10 offset-lg-1">
-                                        <div class="caption">
-                                            <h1 data-splitting><a href="project-details2-dark.html">Explore <br> <span class="stroke">The</span>
-                                                    World</a></h1>
-                                            <a href="project-details2-dark.html" class="dis" data-splitting>Discover Work</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="social">
-                    <span class="icon"><i class="fas fa-share-alt"></i></span>
-                    <a href="index-dark.html#0">Facebook</a>
-                    <a href="index-dark.html#0">Twitter</a>
-                    <a href="index-dark.html#0">Behance</a>
-                </div>
-
-              
-                <div class="swiper-button-next swiper-nav-ctrl next-ctrl">
-                    <i class="fas fa-caret-right"></i>
-                </div>
-                <div class="swiper-button-prev swiper-nav-ctrl prev-ctrl">
-                    <i class="fas fa-caret-left"></i>
-                </div>
-                <div class="swiper-pagination"></div>
-            </div>
-        </section>
-
- -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        <!-- ==================== Start Slider ==================== -->
-
-
-        <div class="main-content">
+        
 
 <!-- testing for 2 portions -->
 
-    <div >
+    
         <section class="slider section-padding slide-controls">
             <div class="container">
               <div class="row">
@@ -295,7 +261,7 @@
                     <!-- <b class="text-dark">veioveomboemwobm</b> -->
                     <!-- <h3 class="text-dark ">UNDERSTANDING THE IMPORTANCE OF EDUCATION </h3> -->
                     <br>
-                    <h3 class="text-center text-dark text-primary" style="color:#001e62"> Top Ivy League Clients </h3>
+                    <h3 class="text-center text-dark text-primary" style="color:#FFFFFF !important;"> Top Ivy League Clients </h3>
                     <br>
                   <img src="img\portions\1.jpg">'
               </div>
@@ -303,8 +269,10 @@
                  <!--  <h3 class="text-center ">MATCHMAKING FOR</h3> -->
                   <!-- <h3 class="bg-primary text-primary text-dark">Top B School Clients</h3> -->
                   <img src="img\portions\2.png" style="height: 55%;">
-                  <h2 class="text-center" style="font-size: 20px; color: #001e62;">What we do</h2>
-                    <p style="font-size: 15px;">Here at Corporate Marriage Bureau, We Understand The Sentiments of Professionals, Where Knowledge Plays a Dominant Part In Finding A Good Partner. </p>
+                  <br><br>
+                  <h2 class="text-center" style="font-size: 20px; color: #FFFFFF;">What we do</h2>
+                  <br>
+                    <p style="font-size: 15px;">Here at Corporate Marriage Bureau, We Understand The Sentiments of Professionals, Where Knowledge Plays a Dominant Part In Finding A Good Partner.Our Relationship Managers are Well Versed In Understanding An Individuals Requirements . </p>
                 </div>
 
                 </div>
@@ -314,36 +282,23 @@
                     <!-- <b class="text-dark">veioveomboemwobm</b> -->
                     <!-- <h3 class="text-dark ">UNDERSTANDING THE IMPORTANCE OF EDUCATION </h3> -->
                     <br>
-                    <h3 class="text-center text-dark text-primary" style="color:#001e62"> Top B School Clients </h3>
+                    <h3 class="text-center text-dark text-primary" style="color:#FFFFFF !important; "> Top B School Clients </h3>
                     <br>
                   <img src="img\portions\3.png">'
               </div>
               <div class="col-lg-6 col-sm-12">
                  <!--  <h3 class="text-center ">MATCHMAKING FOR</h3> -->
                   <!-- <h3 class="bg-primary text-primary text-dark">Top B School Clients</h3> -->
-                  <img src="img\portions\4.png" style="height: 55%;">
-                  <h2 class="text-center" style="font-size: 20px; color: #001e62">How we operate</h2>
-                    <p style="font-size: 15px;">Our Relationship Managers are Well Versed In Understanding An Individuals Requirements Where The Families And The Individuals Will Be Benefited Through Mutual Alliance.</p>
+                  <img src="img\portions\4.png" style="height: 55%;"><br><br>
+                  <h2 class="text-center" style="font-size: 20px; color: #FFFFFF !important;">How we operate</h2><br>
+                    <p style="font-size: 15px; color:#ffffff">Our Relationship Managers are Well Versed In Understanding An Individuals Requirements Where The Families And The Individuals Will Be Benefited Through Mutual Alliance.</p>
                 </div>
             </div>
         </div>
 </section>      
 
-</div>
 
 
-
-
-
-            <!-- ==================== Start About ==================== -->
-
-     
-
-            <!-- ==================== End About ==================== -->
-
-
-
-            <!-- ==================== Start Works ==================== -->
 
             <section class="work-carousel metro section-padding pt-0">
                 <div class="container">
@@ -720,12 +675,12 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-4">
                             <div class="left">
-                                <p>All right reserved.</p>
+                                <p><i class="fas fa-arrow-right"></i>  Privacy Policy.</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <div class="right">
-                                <p>© 2020, Wavo Template. Made with passion by UI-ThemeZ.</p>
+                                <p><i class="fas fa-arrow-right"></i>Terms and Conditions</p>
                             </div>
                         </div>
                     </div>
