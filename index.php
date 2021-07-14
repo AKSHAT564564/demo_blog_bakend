@@ -291,7 +291,7 @@
         <section class="slider section-padding slide-controls">
             <div class="container">
               <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 col-sm-12">
                     <!-- <b class="text-dark">veioveomboemwobm</b> -->
                     <!-- <h3 class="text-dark ">UNDERSTANDING THE IMPORTANCE OF EDUCATION </h3> -->
                     <br>
@@ -299,7 +299,7 @@
                     <br>
                   <img src="img\portions\1.jpg">'
               </div>
-              <div class="col-lg-6">
+              <div class="col-lg-6 col-sm-12">
                  <!--  <h3 class="text-center ">MATCHMAKING FOR</h3> -->
                   <!-- <h3 class="bg-primary text-primary text-dark">Top B School Clients</h3> -->
                   <img src="img\portions\2.png" style="height: 55%;">
@@ -310,7 +310,7 @@
                 </div>
              
     <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 col-sm-12">
                     <!-- <b class="text-dark">veioveomboemwobm</b> -->
                     <!-- <h3 class="text-dark ">UNDERSTANDING THE IMPORTANCE OF EDUCATION </h3> -->
                     <br>
@@ -318,7 +318,7 @@
                     <br>
                   <img src="img\portions\3.png">'
               </div>
-              <div class="col-lg-6">
+              <div class="col-lg-6 col-sm-12">
                  <!--  <h3 class="text-center ">MATCHMAKING FOR</h3> -->
                   <!-- <h3 class="bg-primary text-primary text-dark">Top B School Clients</h3> -->
                   <img src="img\portions\4.png" style="height: 55%;">
