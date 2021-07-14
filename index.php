@@ -252,9 +252,9 @@
         
 
 <!-- testing for 2 portions -->
-
+<br><br><br>
     
-        <section class="slider section-padding slide-controls">
+        
             <div class="container">
               <div class="row">
                 <div class="col-lg-6 col-sm-12">
@@ -272,7 +272,7 @@
                   <br><br>
                   <h2 class="text-center" style="font-size: 20px; color: #FFFFFF;">What we do</h2>
                   <br>
-                    <p style="font-size: 15px;">Here at Corporate Marriage Bureau, We Understand The Sentiments of Professionals, Where Knowledge Plays a Dominant Part In Finding A Good Partner.Our Relationship Managers are Well Versed In Understanding An Individuals Requirements . </p>
+                    <p style="font-size: 15px;">Here at Corporate Marriage Bureau, We Understand The Sentiments of Professionals, Where Knowledge Plays a Dominant Part In Finding A Good Partner.Our Relationship Managers are Well Versed In Understanding An Individuals Requirements. </p>
                 </div>
 
                 </div>
@@ -296,7 +296,7 @@
                 </div>
             </div>
         </div>
-</section>      
+     
 
 
 
@@ -671,17 +671,17 @@
 
             <!-- ==================== Start footer-sm ==================== -->
 
-            <footer class="footer-sm">
+          <footer class="footer-sm">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 col-md-4">
                             <div class="left">
-                                <p><i class="fas fa-arrow-right"></i>  Privacy Policy.</p>
+                                <p>Privacy Policy <strong style="font-size: 25px;">|</strong> T & C</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <div class="right">
-                                <p><i class="fas fa-arrow-right"></i>Terms and Conditions</p>
+                                <p>All right reserved. © 2020, Wavo Template. Made with passion by UI-ThemeZ.</p>
                             </div>
                         </div>
                     </div>

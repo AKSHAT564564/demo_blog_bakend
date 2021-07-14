@@ -340,17 +340,17 @@
 
             <!-- ==================== Start footer-sm ==================== -->
 
-              <footer class="footer-sm">
+                <footer class="footer-sm">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 col-md-4">
                             <div class="left">
-                                <p><i class="fas fa-arrow-right"></i>  Privacy Policy.</p>
+                                <p>Privacy Policy <strong style="font-size: 25px;">|</strong> T & C</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <div class="right">
-                                <p><i class="fas fa-arrow-right"></i>Terms and Conditions</p>
+                                <p>All right reserved. © 2020, Wavo Template. Made with passion by UI-ThemeZ.</p>
                             </div>
                         </div>
                     </div>
