@@ -63,6 +63,7 @@
   transform: translate(-50%, -50%);
   color: white;
 }
+
         </style>
 
 </head>
@@ -255,12 +256,13 @@
 <br><br><br>
     
         <section>
-            <div class="container">
+            <div class="container ">
               <div class="row">
                 <div class="col-lg-6 col-sm-12">
                     <!-- <b class="text-dark">veioveomboemwobm</b> -->
                     <!-- <h3 class="text-dark ">UNDERSTANDING THE IMPORTANCE OF EDUCATION </h3> -->
                     <br>
+                     <h2 class="text-center text-dark text-primary" style="font-size: 25px;">UNDERSTANDING THE IMPORTANCE OF EDUCATION</h2>
                     <h3 class="text-center text-dark text-primary" style="color:#FFFFFF !important;"> Top Ivy League Clients </h3>
                     <br>
                   <img src="img\portions\1.jpg">'
@@ -270,9 +272,10 @@
                   <!-- <h3 class="bg-primary text-primary text-dark">Top B School Clients</h3> -->
                   <img src="img\portions\2.png" style="height: 55%;">
                   <br><br>
+
                   <h2 class="text-center" style="font-size: 20px; color: #FFFFFF;">What we do</h2>
                   <br>
-                    <p style="font-size: 15px;">Here at Corporate Marriage Bureau, We Understand The Sentiments of Professionals, Where Knowledge Plays a Dominant Part In Finding A Good Partner. </p>
+                    <p style="font-size: 15px;">Here at Corporate Marriage Bureau, We Understand The Sentiments of Professionals, Where Knowledge Plays a Dominant Part In Finding A Good Partner. We Believe In Matchmaking Through Modern Methods Where Not Only Two Individuals Compatibility Plays a Part But Also There Professional Profiles Should Also Be Compatible. </p>
                 </div>
 
                 </div>
@@ -283,6 +286,7 @@
                     <!-- <b class="text-dark">veioveomboemwobm</b> -->
                     <!-- <h3 class="text-dark ">UNDERSTANDING THE IMPORTANCE OF EDUCATION </h3> -->
                     <br>
+                    <h2 class="text-center text-dark text-primary" style="font-size: 25px;">Match Making For</h2>
                     <h3 class="text-center text-dark text-primary" style="color:#FFFFFF !important; "> Top B School Clients </h3>
                     <br>
                   <img src="img\portions\3.png">'
@@ -677,7 +681,7 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-4">
                             <div class="left">
-                                <p>Privacy Policy <strong>|</strong> Terms & Conditions</p>
+                                <p><a href="">Privacy Policy</a> <strong>|</strong><a href=""> Terms & Conditions</a></p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
