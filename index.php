@@ -287,7 +287,7 @@
 
 <!-- testing for 2 portions -->
 
-    <div style="background-color: white;">
+    <div >
         <section class="slider section-padding slide-controls">
             <div class="container">
               <div class="row">
